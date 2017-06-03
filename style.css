@@ -2505,6 +2505,7 @@ h2.widget-title {
 	letter-spacing: 0.1818em;
 	margin-bottom: 1.5em;
 	text-transform: uppercase;
+	visibility: hidden;
 }
 
 .widget-title a {
